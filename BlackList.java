@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class BlackList {
-    private ArrayList<Class> blackList = new ArrayList<>();
+    private List<Class> blackList = new ArrayList<>();
 
     public BlackList() {
         super();
